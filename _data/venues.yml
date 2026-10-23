@@ -33,3 +33,7 @@
 "GRSL":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
   color: "#0a942f"
+  
+ "PIEEE":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5
+  color: "#9b51e0"
